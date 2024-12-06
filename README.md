@@ -33,7 +33,7 @@
 </p>
   <br>
   <h1>Conversation History<h1/>
-<p>The chatbot saves the conversation history in a CSV file (chat_log.csv). You can view past interactions by selecting the "Conversation History" option in the sidebar.</p>
+<h4>The chatbot saves the conversation history in a CSV file (chat_log.csv). You can view past interactions by selecting the "Conversation History" option in the sidebar.</h4>
 <br>
 <h1>Acknowledgments</h1>
 <br>
@@ -44,6 +44,6 @@
 </p>
 <br>
     <br>
-<h2>Replace repository-url and repository-directory with the actual URL of your repository and the name of the directory where the project is located. Adjust any sections as necessary to better fit your project's specifics.</h2>
+<h3>Replace repository-url and repository-directory with the actual URL of your repository and the name of the directory where the project is located. Adjust any sections as necessary to better fit your project's specifics.</h3>
 <br>
 
