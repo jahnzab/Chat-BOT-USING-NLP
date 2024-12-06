@@ -43,6 +43,6 @@
     Streamlit for building the web interface.
 </p>
 <br>
-<h1>Replace <repository-url> and <repository-directory> with the actual URL of your repository and the name of the directory where the project is located. Adjust any sections as necessary to better fit your project's specifics.</h1>
+<p>Replace <repository-url> and <repository-directory> with the actual URL of your repository and the name of the directory where the project is located. Adjust any sections as necessary to better fit your project's specifics.</p>
 <br>
 
